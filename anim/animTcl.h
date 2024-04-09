@@ -3,7 +3,6 @@
 #define	_ANIMTCL_H_ 1
 
 //#include <shared/GlobalResourceManager.h>
-
 #ifdef __APPLE__
 #include <TCL/tcl.h>
 #include <Tk/tk.h>

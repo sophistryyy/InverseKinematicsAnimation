@@ -41,6 +41,9 @@
     <ClCompile Include="BaseSystem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\HermiteForAssmt3\Hermite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="anim.h">
@@ -71,6 +74,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="BaseSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\HermiteForAssmt3\Hermite.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

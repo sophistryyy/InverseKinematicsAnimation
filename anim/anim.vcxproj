@@ -94,6 +94,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\HermiteForAssmt3\Hermite.cpp" />
     <ClCompile Include="anim.cpp" />
     <ClCompile Include="animTcl.cpp" />
     <ClCompile Include="BaseObject.cpp" />
@@ -106,6 +107,7 @@
     <ClCompile Include="BaseSystem.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\HermiteForAssmt3\Hermite.h" />
     <ClInclude Include="BaseSystem.h" />
     <ClInclude Include="anim.h" />
     <ClInclude Include="animTcl.h" />
